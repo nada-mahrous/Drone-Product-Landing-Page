@@ -1,0 +1,157 @@
+.footer {
+  padding: 64px 0px 32px;
+  color: white;
+  background-color: #101828;
+}
+.footer-top {
+  /* background-color: brown; */
+  margin-bottom: 48px;
+}
+/* ///////////////////////////////// */
+/* first item */
+.footer-info {
+  float: left;
+  width: 24%;
+}
+/* 1st-item-heading */
+.first-item-heading {
+  align-items: center;
+  margin-bottom: 24px;
+}
+.svg {
+  float: left;
+  background-color: #7f22fe;
+  border-radius: 8px;
+  width: 40px;
+  height: 40px;
+  margin-right: 8px;
+  text-align: center;
+  line-height: 40px;
+}
+.svg svg {
+  display: inline-block;
+  width: 22px;
+  height: 18px;
+  vertical-align: middle;
+
+}
+.first-item-heading span {
+  float: left;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  color: white;
+  padding-top: 5px;
+}
+/* 1st-item-p */
+.footer-info p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 24px;
+}
+
+/* 1st-item-social-links */
+
+.social-links .social-media {
+  display: inline-block;
+  background-color: #1e2939;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 40px;
+  height: 40px;
+  margin-right: 14px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 40px;
+}
+.social-links .social-media svg {
+  display: inline-block;
+  width: 20px;
+  height: 16px;
+   vertical-align: middle;
+}
+.social-links .facebook,
+.twitter,
+.instagram,
+.youtube {
+  transition: background-color 0.3s ease;
+}
+.social-links .facebook:hover {
+  background-color: #1877f2;
+}
+
+.social-links .twitter:hover {
+  background-color: #1da1f2;
+}
+
+.social-links .instagram:hover {
+  background-color: #e4405f;
+}
+
+.social-links .youtube:hover {
+  background-color: red;
+}
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+/* second item */
+.footer-products {
+  /* margin-left: 30px; */
+  margin-left: 2.333%;
+  float: left;
+  width: 23%;
+}
+.footer-products h4 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 24px;
+}
+.footer-products ul {
+  list-style: none;
+}
+.footer-products ul li {
+  margin-bottom: 12px;
+}
+.footer-products ul li a {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 24px;
+  color: #99a1af;
+  transition: color 0.3s ease;
+}
+.footer-products ul li a:hover {
+  color: #fff;
+}
+
+/* ^^^^^^^^ */
+.border {
+  border-top: 1px solid #1e2939;
+  /* margin-bottom: 30px; */
+}
+/* ^^^^^^^^ */
+/* copyright */
+.footer-copyright {
+  padding-top: 32px;
+}
+.footer-copyright p {
+  float: left;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+}
+.payment-methods {
+  float: right;
+}
+.footer-copyright .payment-methods .mastercard {
+  float: left;
+  padding: 12px 12px 8px;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-right: 24px;
+}
+/* .footer-copyright .payment-methods .mastercard:last-child {
+  margin-right: 0!important;
+} */
+.footer-copyright .payment-methods .mastercard img {
+  height: 16px;
+}
