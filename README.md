@@ -17,12 +17,29 @@ The goal of the project was to build a clean and organized layout that highlight
 - Layout structured using **CSS Float**
 - Organized sections for product details and reviews
 
+## 📂 Project Structure
+
+Drone-Product-Landing-Page
+│
+├── index.html  
+├── style.css  
+├── preview.png  
+└── README.md  
+
+## 📚 What I Learned
+
+- Building structured layouts using **CSS Float**
+- Organizing content into reusable sections
+- Creating clean UI layouts with HTML and CSS
+
 ## 🔗 Live Demo
 https://nada-mahrous.github.io/Drone-Product-Landing-Page/
 
 ## 📸 Project Preview
 <img width="1902" height="878" alt="Capture" src="https://github.com/user-attachments/assets/68d57e3e-2f74-4813-838f-bd5d6b7638d3" />
 
+📌
+## 👩‍💻📌 Author
 
-## 📌 Author
-Nada Mahrous
+Nada Mahrous  
+Front-End Developer
