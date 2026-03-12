@@ -14,8 +14,9 @@ The goal of the project was to build a clean and organized layout that highlight
 ## ✨ Features
 - Clean product-focused layout
 - Card-based design
-- Layout structured using **CSS Float**
+- Layout structured using CSS Float
 - Organized sections for product details and reviews
+- Product hero section with pricing and CTA
 
 ## 📂 Project Structure
 
