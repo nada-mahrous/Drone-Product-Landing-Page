@@ -38,7 +38,7 @@ https://nada-mahrous.github.io/Drone-Product-Landing-Page/
 ## 📸 Project Preview
 <img width="1902" height="878" alt="Capture" src="https://github.com/user-attachments/assets/68d57e3e-2f74-4813-838f-bd5d6b7638d3" />
 
-📌
+
 ## 👩‍💻📌 Author
 
 Nada Mahrous  
